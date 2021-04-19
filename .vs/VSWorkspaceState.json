@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ZivarHomework",
+    "\\ZivarHomework\\ZivarHomework",
+    "\\ZivarHomework\\ZivarHomework\\Controllers",
+    "\\ZivarHomework\\ZivarHomework\\Models",
+    "\\ZivarHomework\\ZivarHomework\\obj",
+    "\\ZivarHomework\\ZivarHomework\\obj\\Debug",
+    "\\ZivarHomework\\ZivarHomework\\obj\\Debug\\netcoreapp3.1\\Razor\\Views",
+    "\\ZivarHomework\\ZivarHomework\\ViewModels",
+    "\\ZivarHomework\\ZivarHomework\\wwwroot"
+  ],
+  "SelectedNode": "\\ZivarHomework\\ZivarHomework\\Models",
+  "PreviewInSolutionExplorer": false
+}
